@@ -1,1 +1,3 @@
 # projects-demo
+
+<ProjectsList/>
